@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://veljkorikalovic.github.io/csb-dke0jn/static/css/main.651aa154.chunk.css",
+    "main.js": "https://veljkorikalovic.github.io/csb-dke0jn/static/js/main.e498b6f9.chunk.js",
+    "main.js.map": "https://veljkorikalovic.github.io/csb-dke0jn/static/js/main.e498b6f9.chunk.js.map",
+    "runtime-main.js": "https://veljkorikalovic.github.io/csb-dke0jn/static/js/runtime-main.8d0a21ee.js",
+    "runtime-main.js.map": "https://veljkorikalovic.github.io/csb-dke0jn/static/js/runtime-main.8d0a21ee.js.map",
+    "static/js/2.236d9600.chunk.js": "https://veljkorikalovic.github.io/csb-dke0jn/static/js/2.236d9600.chunk.js",
+    "static/js/2.236d9600.chunk.js.map": "https://veljkorikalovic.github.io/csb-dke0jn/static/js/2.236d9600.chunk.js.map",
+    "index.html": "https://veljkorikalovic.github.io/csb-dke0jn/index.html",
+    "static/css/main.651aa154.chunk.css.map": "https://veljkorikalovic.github.io/csb-dke0jn/static/css/main.651aa154.chunk.css.map",
+    "static/js/2.236d9600.chunk.js.LICENSE.txt": "https://veljkorikalovic.github.io/csb-dke0jn/static/js/2.236d9600.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d0a21ee.js",
+    "static/js/2.236d9600.chunk.js",
+    "static/css/main.651aa154.chunk.css",
+    "static/js/main.e498b6f9.chunk.js"
+  ]
+}
